@@ -1,4 +1,0 @@
-﻿src/components/global/Footer.tsx(2,38): error TS2305: Module '"lucide-react"' has no exported member 'Instagram'.
-src/components/global/Footer.tsx(2,49): error TS2305: Module '"lucide-react"' has no exported member 'Facebook'.
-src/components/global/SmoothScroll.tsx(8,7): error TS2322: Type 'React.ReactNode' is not assignable to type 'import("C:/Users/Hero/.gemini/antigravity/scratch/little-monks/node_modules/@studio-freight/react-lenis/node_modules/@types/react/index").ReactNode'.
-  Type 'bigint' is not assignable to type 'ReactNode'.
